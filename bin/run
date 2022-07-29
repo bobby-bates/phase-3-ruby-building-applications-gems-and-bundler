@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby 
 
-# require the environment file
+# This line lets us access all of our gems from our bin/run file
+require_relative '../config/environment'
